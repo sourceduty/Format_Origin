@@ -14,7 +14,7 @@ This custom GPT differs from the [Format Developer](https://github.com/sourcedut
 
 #
 
-> Alex: "*NERD ALERT: I have two or more custom GPTs dedicated to format development.*"
+![Nerd](https://github.com/user-attachments/assets/4d2d8f07-eee3-41d7-958a-e52eee8c8aed)
 
 #
 ### Related Links
