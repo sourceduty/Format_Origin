@@ -10,7 +10,7 @@ Beyond code generation, this GPT adapts to user preferences and styles, offering
 #
 ### Format Developer
 
-This GPT differs from the Format_Developer custom GPT in its primary focus. While Format_Developer centers on creating and managing custom formats for code and data structures, covering the entire process from design to implementation, this GPT assists users in generating and formatting programming code and technical writing across various languages. It helps with structuring responses and ensuring clarity, but it doesn't focus on the full lifecycle of format development like the GitHub project does.
+This custom GPT differs from the [Format Developer](https://github.com/sourceduty/Format_Developer) in its primary focus. While Format_Developer centers on creating and managing custom formats for code and data structures, covering the entire process from design to implementation, this GPT assists users in generating and formatting programming code and technical writing across various languages. It helps with structuring responses and ensuring clarity, but it doesn't focus on the full lifecycle of format development like the GitHub project does.
 
 #
 ### Related Links
@@ -22,8 +22,6 @@ This GPT differs from the Format_Developer custom GPT in its primary focus. Whil
 [Format Analyzer](https://github.com/sourceduty/Format_Analyzer)
 <br>
 [Serial Format](https://github.com/sourceduty/Serial_Format)
-<br>
-[Format Developer](https://github.com/sourceduty/Format_Developer)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
