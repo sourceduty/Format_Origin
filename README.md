@@ -1,6 +1,6 @@
 ![Format](https://github.com/user-attachments/assets/97322146-4d82-4403-95b9-853b0402ea21)
 
-> Generate programming and written language format templates. 
+> Generate programming, math and written language format templates.
 #
 
 [Format Origin](https://chatgpt.com/g/g-NK1nqd6ci-format-origin) assists users with generating and formatting both programming code and written text. It helps create structured, technically accurate outputs in a variety of programming languages and styles, offering snippets of code as needed. In addition, it ensures the proper formatting of documents and text for different use cases, whether it be for technical writing, professional documents, or other specific needs. By focusing on both technical precision and grammatical clarity, this GPT is able to provide solutions that are both correct and easy to understand.
