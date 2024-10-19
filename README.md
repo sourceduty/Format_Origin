@@ -13,6 +13,22 @@ In addition to technical assistance, it can adapt to various styles of communica
 This custom GPT differs from the [Format Developer](https://github.com/sourceduty/Format_Developer) in its primary focus. While Format Developer centers on creating and managing custom formats for code and data structures, covering the entire process from design to implementation, this GPT assists users in generating and formatting programming code and technical writing across various languages. It helps with structuring responses and ensuring clarity, but it doesn't focus on the full lifecycle of format development like Format Developer custom GPT does.
 
 #
+### Supprted Formats
+
+| Format Type         | Description                                                        |
+|---------------------|--------------------------------------------------------------------|
+| Programming Code    | Supports code generation in various languages such as Python, C++, Java, etc. |
+| Markdown            | Text formatting using Markdown syntax, including lists, links, and emphasis. |
+| Mathematical Expressions | LaTeX-style mathematical formatting for equations and formulas. |
+| Technical Writing   | Structured responses for documentation, reports, and manuals.      |
+| Tables              | Create tables using Markdown or code-specific table structures.    |
+| Text Formatting     | Convert between different styles (APA, MLA, etc.) and plain text formats. |
+| Email Formatting    | Structure emails with proper salutation, body, and signature.      |
+| JSON/YAML/HTML      | Provide structured data formats or HTML for web development tasks. |
+| Code Commenting     | Generate comments for various programming languages.              |
+| CSV/Excel Output    | Create and display data in tabular CSV or Excel formats.           |
+
+#
 
 ![Nerd](https://github.com/user-attachments/assets/4d2d8f07-eee3-41d7-958a-e52eee8c8aed)
 
