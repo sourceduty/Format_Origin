@@ -3,9 +3,9 @@
 > Generate programming, math and written language format templates.
 #
 
-[Format Origin](https://chatgpt.com/g/g-NK1nqd6ci-format-origin) assists users with generating and formatting both programming code and written text. It helps create structured, technically accurate outputs in a variety of programming languages and styles, offering snippets of code as needed. In addition, it ensures the proper formatting of documents and text for different use cases, whether it be for technical writing, professional documents, or other specific needs. By focusing on both technical precision and grammatical clarity, this GPT is able to provide solutions that are both correct and easy to understand.
+[Format Origin](https://chatgpt.com/g/g-NK1nqd6ci-format-origin) assists users with tasks related to programming, mathematics, and written content formatting. It specializes in providing code snippets, helping structure responses in different programming languages, and ensuring that outputs are clear, accurate, and technically sound. Whether the task involves writing algorithms, creating document templates, or solving mathematical problems, this GPT is equipped to offer precise solutions while adhering to standard conventions of syntax and grammar.
 
-Beyond code generation, this GPT adapts to user preferences and styles, offering tailored responses for different writing or programming contexts. It can structure responses in a step-by-step manner to help users navigate complex problems more easily. Whether it's writing a formal email, drafting a report, or providing Python, JavaScript, or other code examples, this GPT is capable of delivering highly customized and precise outputs to meet a wide range of user requirements.
+In addition to technical assistance, it can adapt to various styles of communication and formatting needs. From structuring formal documents to generating well-organized, concise content, this GPT provides guidance that aligns with the user's specific objectives. By offering step-by-step assistance through multiple-choice questions, it ensures a tailored experience that meets the unique demands of each task, making it an ideal tool for both technical and creative formatting challenges.
 
 #
 ### Format Developer
