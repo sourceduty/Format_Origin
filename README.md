@@ -58,6 +58,8 @@ In this context, the approach to privacy involves employing advanced encryption 
 [Format Analyzer](https://github.com/sourceduty/Format_Analyzer)
 <br>
 [Serial Format](https://github.com/sourceduty/Serial_Format)
+<br>
+[Plain Text](https://github.com/sourceduty/Plain_Text)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
